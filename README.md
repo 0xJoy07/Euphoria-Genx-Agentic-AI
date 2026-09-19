@@ -2,7 +2,8 @@
 
 Industrial training program referred by **Narula Institute of Technology** to **Euphoria GenX**, focused on Agentic AI concepts and hands-on Python development.
 
-|---|---|
+|||
+|-----|--------|
 | **Institute** | Narula Institute of Technology |
 | **Training Partner** | Euphoria GenX |
 | **Domain** | Agentic AI |
