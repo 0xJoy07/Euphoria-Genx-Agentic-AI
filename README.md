@@ -2,7 +2,6 @@
 
 Industrial training program referred by **Narula Institute of Technology** to **Euphoria GenX**, focused on Agentic AI concepts and hands-on Python development.
 
-| | |
 |---|---|
 | **Institute** | Narula Institute of Technology |
 | **Training Partner** | Euphoria GenX |
@@ -18,3 +17,4 @@ Industrial training program referred by **Narula Institute of Technology** to **
 | Day 3 | Data structures continued |
 | Day 4 | LangChain + Google Gemini — working with LLMs |
 | Day 5 | RAG — Document loading, text chunking |
+| Day 6 | RAG Part 2 — Embeddings and Vector Databases (ChromaDB) |
